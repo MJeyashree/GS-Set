@@ -1,3 +1,5 @@
+         // 1)Binary,Octal,Hexadecimal
+
 import java.util.Scanner;
 public class sixtyques{
     public static void main(String[] args) {
@@ -35,7 +37,7 @@ public class sixtyques{
     }
 }
 
-                   // to find the Circumference of the square
+                   // 2) to find the Circumference of the square
 class square{
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
@@ -46,7 +48,7 @@ class square{
     }
 }
 
-             // To find the Circumference of the Rectangle
+             // 3) To find the Circumference of the Rectangle
 class rectangle{
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
@@ -59,7 +61,7 @@ class rectangle{
     }
 }
  
-         // To find the Circumference of the Cylinder
+         // 4) To find the Circumference of the Cylinder
 
 class cylinder{
     public static void main(String[] args){
@@ -75,7 +77,7 @@ class cylinder{
     }
 }
 
-       // Addition and Multiplication table
+       // 5)  Addition and Multiplication table
 
 class table{
     public static void main(String[] args){
@@ -89,7 +91,7 @@ class table{
     }
 }
 
-      // Program to print the ASCII value of all Alphabets
+      // 6)  Program to print the ASCII value of all Alphabets
 
 class ascii{
     public static void main(String[] args){
@@ -106,7 +108,7 @@ class ascii{
     }
 }
 
-      // Quotient and Remainder of a Given Number
+      // 7)  Quotient and Remainder of a Given Number
 
 class Quotient {
     public static void main(String[] args) {
@@ -118,7 +120,7 @@ class Quotient {
         System.out.println("The Remainder of the two numbers is: " + remainder);
     }
 }
-        //Demonstrate the Keyword Long and Double
+        // 8) Demonstrate the Keyword Long and Double
 
 class keyword{
     public static void main(String[] args){
@@ -129,7 +131,7 @@ class keyword{
     }
 }
 
-      // Program to Swap the two numbers
+      // 9)  Program to Swap the two numbers
 
 class swap{
     public static void main(String[] args){
@@ -142,7 +144,7 @@ class swap{
     }
 }
 
-      // To check whether the Number is Even or Odd
+      // 10) To check whether the Number is Even or Odd
 
 class oddeven{
     public static void main(String[] args){
@@ -157,7 +159,7 @@ class oddeven{
     }
 }
 
-     // To check whether a character is vowel or constant
+     // 11) To check whether a character is vowel or constant
 
 class vowel{
     public static void main(String[] args){
@@ -177,7 +179,7 @@ class vowel{
     }
 }
 
-                  // Find Largest Numbers
+                  // 12) Find Largest Numbers
 
 class largest{
     public static void main(String[] args){
@@ -204,7 +206,7 @@ class largest{
     }
 }
 
-       // Find the roots of Quadratic Equation
+       // 13) Find the roots of Quadratic Equation
 
 class quadratic{
     public static void main(String[] args){
@@ -220,7 +222,7 @@ class quadratic{
     }
 }
 
-      // To check the number is Positive or Negative
+      // 14) To check the number is Positive or Negative
 
 class check{
     public static void main(String[] args){
@@ -238,7 +240,7 @@ class check{
     }
 }
 
-     // To check whether a character is alphabet
+     // 15) To check whether a character is alphabet
 
 class alpha{
     public static void main(String[] args){
@@ -253,7 +255,7 @@ class alpha{
     }
 }
 
-     // Sum of Natural Numbers and find the Smallest Digit
+     // 16) Sum of Natural Numbers and find the Smallest Digit
 
 class natural{
     public static void main(String[] args){
@@ -275,7 +277,7 @@ class natural{
     }
 }
 
-     //Functionality of conditional operators
+     // 17) Functionality of conditional operators
 
 class  condition{
     public static void main(String[] args){
@@ -285,7 +287,7 @@ class  condition{
     }
 }
 
-    //Find the space between the Circles
+    // 18) Find the space between the Concentric Circles
 
 class circle{
     public static void main(String[] args){
@@ -301,7 +303,7 @@ class circle{
         System.out.println("The Space Between two Circles: "+ sum);
     }
 }
-            // Evaluate the Expressions
+            // 19-24) Evaluate the Expressions
 
 class expression{
     public static void main(String[] args){
@@ -330,7 +332,7 @@ class expression{
     } 
 }
 
-             // FINAL keyword
+             // 25) FINAL keyword
 
 /*class finalkeyword{
     public static void main(String[] args){
@@ -340,7 +342,7 @@ class expression{
     }
 } */
 
-        // Merged array and Repeated Elements
+        // 26) Merged array and Repeated Elements
 
 class merge{
     public static void main(String[] args){
@@ -369,7 +371,7 @@ class merge{
     }
 }
 
-     // Right rotate the multi-dimensional array
+     // 27)  Right rotate the multi-dimensional array
 
 class rotate{
     public static void main(String[] args){
@@ -392,7 +394,7 @@ class rotate{
     }
 }
 
-           //Alternate Sorting
+           // 28) Alternate Sorting
         
 class altersort{
     public static void main(String[] args){
@@ -420,7 +422,7 @@ class altersort{
     }
 }
 
-        // Factorial and factorial numbers reverse
+        // 29) Factorial and factorial numbers reverse
 
 class fact{
     public static void main(String[] args){
@@ -441,7 +443,7 @@ class fact{
     }
 }
 
-      // Sum of elemnents of an Even index
+      // 30,31) Sum of elemnents of an Even index and Odd index
 
 class evenodd{
     public static void main(String[] args){
@@ -460,7 +462,7 @@ class evenodd{
     }
 }
 
-         //  Second largest Element in an Array
+         // 32)  Second largest Element in an Array
 
 class seclarge{
     public static void main(String[] args){
@@ -479,7 +481,7 @@ class seclarge{
     }
 }
 
-       // Second Largest Element 
+       // 33) Second Smallest Element 
 
 class secsmall{
     public static void main(String[] args){
@@ -498,7 +500,7 @@ class secsmall{
     }
 }
 
-               //  Count the Number of Elements
+               // 34) Count the Number of Elements
 
 class numelement{
     public static void main(String[] args){
@@ -512,7 +514,7 @@ class numelement{
     }
 }
 
-       // Copy all elements of one to another
+       // 35)Copy all elements of one to another
 
 class copy{
     public static void main(String[] args){
@@ -526,7 +528,7 @@ class copy{
     }
 }
 
-                   // Find the Frequency of the Array
+                   // 36) Find the Frequency of the Array
 
 class frequency{
     public static void main(String[] args){
@@ -549,7 +551,7 @@ class frequency{
     }
 }
 
-       // Program to reverse the elements of an array
+       // 37)Program to reverse the elements of an array
 
 class reverse{
     public static void main(String[] args){
@@ -562,7 +564,7 @@ class reverse{
     }
 }
 
-         // Print the Delete an Elements of an Array
+         // 38) Print the Delete an Elements of an Array
 
 class delete{
     public static void main(String[] args) {
@@ -596,7 +598,7 @@ class delete{
 
         
 
-        // To print average for all element in an Array
+        // 39) To print average for all element in an Array
 
 class average{
     public static void main(String[] args){
@@ -612,7 +614,7 @@ class average{
     }
 }
 
-          // Inverse the elements
+          // 40) Inverse the elements
 
 class inverse{
     public static void main(String[] args){
@@ -631,7 +633,7 @@ class inverse{
     }
 }
 
-         //  Pyramid - I Patterns using for-loop
+         // 41) Pyramid - I Patterns using for-loop
 
 class pattern{
     public static void main(String[] args){
@@ -649,7 +651,7 @@ class pattern{
     }
 }
  
-       // Pyramid pattern - II
+       // 42) Pyramid pattern - II
 
 class patternII{
     public static void main(String[] args){
@@ -667,7 +669,7 @@ class patternII{
     }
 }
 
-          // Pattern III
+          // 43) Pattern III
 
 class patternIII{
     public static void main(String[] args){
@@ -686,7 +688,7 @@ class patternIII{
 }
 
 
-          //  Alphabet pattern 
+          // 44) Alphabet pattern 
 
 class alphapattern {
     public static void main(String[] args) {
@@ -706,6 +708,8 @@ class alphapattern {
     }
 }
 
+                     // 45) ODD pattern
+
 class oddpattern {
     public static void main(String[] args) {
         int n = 5; 
@@ -723,7 +727,7 @@ class oddpattern {
     }
 }
 
-            // Find the odd number between the range 
+            // 46) Find the odd number between the range 
 class odd{
     public static void main(String[] args){
         int n=15;
@@ -736,7 +740,7 @@ class odd{
     }
 }
 
-          // Print a Letters 
+          // 47) Print a Letters 
 
 class print{
     public static void main(String[] args){
@@ -753,7 +757,7 @@ class print{
     }
 }
 
-         // Sum of given number and it's Reverse Number
+         // 48) Sum of given number and it's Reverse Number
 
 class sumnumrev{
     public static void main(String[] args){
@@ -770,7 +774,7 @@ class sumnumrev{
     }
 }
 
-            // Recursion Reverse the String
+            // 49) Recursion Reverse the String
 
 class revwordrecurse{
     public static String reverseWords(String[] words, int index) {
@@ -789,7 +793,35 @@ class revwordrecurse{
     }
 }
 
-          //  Short the Elements in ODD position
+          // 50)  Numbers to Word
+
+class numtoword{
+    public static void main(String[] args) {   
+       Scanner scan = new Scanner(System.in);
+       System.out.println("Enter a number :");  
+       String[] one ={"" , " one " , " two " ," three " , " four " , " five " , " six " ," seven " ," eight " , " nine " , " ten " , " eleven " ," twelve " , " thirteen " , " fourteen " ,
+                      " fivteen " , " sixteen " ," seventeen "," eigtheen ", " nineteen " };
+        String[] ten = {"", "" ,"twenty "," thirty "," forty "," fifty "," sixty "," seventy "," eighty "," ninety "};
+        int num = scan.nextInt();
+        if(num == 0){
+            System.out.println("zero");
+        }
+        else{
+          if(num >= 100){
+            System.out.print( one[num/100] + " hundered ");
+            num = num %100;
+        }
+        if(num < 20){
+            System.out.print(one[num]);
+        }
+        else{
+            System.out.print(ten[num/10] + " " + one[num%10] );
+        }    
+    }
+} 
+ }
+
+          // 51) Short the Elements in ODD position
 
 class oddsort{
     public static void main(String[] args) {
@@ -841,7 +873,7 @@ class oddsort{
     }
 }
 
-        //  Alphabet 'C' Pattern 
+        // 52) Alphabet 'C' Pattern 
 
 class Cpattern{
     public static void main(String[] args){
@@ -852,7 +884,7 @@ class Cpattern{
     }
 }
 
-      //Pattern Pyramid with Numbers
+      // 53) Pattern Pyramid with Numbers
 
 class pyramidnum{
     public static void main(String[] args){
@@ -871,7 +903,7 @@ class pyramidnum{
     }
 }
 
-         // Print X pattern
+         // 54) Print X pattern
 
 class Xpattern {
     public static void main(String[] args) {
@@ -894,7 +926,7 @@ class Xpattern {
 }
 
           
-           // Print the Pattern Using Input Number
+           // 55) Print the Pattern Using Input Number
 
 class numPattern {
     public static void main(String[] args) {
@@ -910,7 +942,7 @@ class numPattern {
     }
 }
 
-        //  Substring without String
+        // 56) Substring without String
 
 class substring {
     public static void main(String[] args) {
@@ -933,7 +965,7 @@ class substring {
     }
 }
 
-                     //  Missmatched from Two-Array
+                     // 57) Missmatched from Two-Array
 
 class mismatch{
     public static void main(String[] args) {
@@ -949,7 +981,7 @@ class mismatch{
     }
 }
 
-           //Sum of two nums & result stored in Result Aray
+           // 58) Sum of two nums & result stored in Result Aray
 
 class hugeadd{
     public static void main(String[] args) {
@@ -980,7 +1012,7 @@ class hugeadd{
     }
 }
 
-          // Print the Format
+          // 59) Print the Format
 
 class format{
   public static void main(String[] args) {
@@ -996,7 +1028,7 @@ class format{
     }
 }
 
-               // WELCOMETOZOHOCORPARATION
+               // 60) WELCOMETOZOHOCORPARATION
 
 class strpattern
 {
